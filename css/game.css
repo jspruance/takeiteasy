@@ -1,0 +1,102 @@
+#questions {
+	font-size: 16px;
+}
+
+.question {
+	margin-bottom: 25px;
+	color: #494949;
+}
+
+.answer-target {
+	display: inline-block;
+	position: relative;
+	top: 2px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border: 1px dashed #c9c9c9;
+	border-radius: 4px;
+	min-height: 45px;
+	min-width: 120px;
+}
+
+
+
+#answer-bank {
+	border: 1px solid #dfdfdf;
+	border-radius: 4px;
+	padding: 15px;
+	min-height: 400px;
+	width: 100%;
+}
+
+.answer-card {
+	display: inline-block;
+	font-size: 16px;
+	color: #17AA1C;
+	xborder: 1px solid #38ABEE;
+	border: 1px solid #17AA1C;
+	background-color: #fff;
+	border-radius: 4px;
+	min-height: 45px;
+	min-width: 120px;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+
+.answer-card:hover {
+	cursor:pointer;
+}
+
+.answer-card-dropped {
+	background-color: #17AA1C;
+	color: #fff;
+}
+
+.correct {
+	background: url('../images/green-check.png') no-repeat;
+}
+
+.incorrect {
+	background: url('../images/red-ex.png') no-repeat;
+}
+
+.correct, .incorrect {
+	display: inline-block;
+	xfloat: left;
+	width: 35px;
+	height: 35px;
+	margin-left: 10px;
+}
+
+.trophy {
+	xdisplay: none;
+	float: left;
+	width: 100px;
+	margin: auto;
+	text-align: center;
+	color: #38ABEE;
+	font-weight: 700;
+}
+
+.trophy p {
+	margin-top: 3px;
+}
+
+.reset {
+	margin-top: 10px;
+}
+
+#tryagain, #gonextlevel {
+	display: none;
+	margin-left: 15px;
+}
+
+.reset a {
+	text-decoration: none;
+	color: #38ABEE;
+}
+
+.submit {
+	margin: auto;
+}

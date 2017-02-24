@@ -1,0 +1,80 @@
+{
+  "level-1": {
+    "questions": [
+	  { "q1": "Don't wait for me, I'll * with you later." },
+	  { "q2": "If he doesn't * in 5 minutes we'll have to reschedule the meeting." },
+	  { "q3": "We met with the architect to * the plans for the new house." },
+	  { "q4": "* your shoes when you come inside so you don't get the carpet dirty." },
+	  { "q5": "The firemen used 12,000 gallons of water to * the fire." },
+	  { "q6": "She had to * several forms for her visa application." },
+	  { "q7": "You might want to * some options for having your roof fixed." },
+	  { "q8": "If you * on sweets you won't be able to finish your dinner!" }
+	],
+	"answers": [
+	  { "ac-1": "catch up" },
+	  { "ac-2": "show up" },
+	  { "ac-3": "go over" },
+	  { "ac-4": "take off" },
+	  { "ac-5": "put out" },
+	  { "ac-6": "fill out" },
+	  { "ac-7": "look into" },
+	  { "ac-8": "fill up" },
+	  { "ac-9": "fill in" },
+	  { "ac-10": "put on" },
+	  { "ac-11": "take out" },
+	  { "ac-12": "catch on" }
+	]
+  },
+  "level-2": {
+    "questions": [
+	  { "q1": "Let's meet up for dinner after you * at the hotel." },
+	  { "q2": "My sugar levels were too high so I decided to * on soda." },
+	  { "q3": "I'm feeling too tired to cook so we might * going out to eat." },
+	  { "q4": "Turn on the weather channel, I want to * what it will be like tomorrow." },
+	  { "q5": "I'll call you back as soon as I * from vacation." },
+	  { "q6": "I'm not doing anything tonight - do you want to * at my place?" },
+	  { "q7": "I always * studying for exams until the last minute." },
+	  { "q8": "The flight attendant told us to leave our seat belts on until we *." }
+	],
+	"answers": [
+	  { "ac-1": "check in" },
+	  { "ac-2": "cut back" },
+	  { "ac-3": "end up" },
+	  { "ac-4": "find out" },
+	  { "ac-5": "get back" },
+	  { "ac-6": "hang out" },
+	  { "ac-7": "put off" },
+	  { "ac-8": "take off" },
+	  { "ac-9": "hold on" },
+	  { "ac-10": "pass out" },
+	  { "ac-11": "take back" },
+	  { "ac-12": "get down" }
+	]
+  },
+  "level-3": {
+    "questions": [
+	  { "q1": "I rarely * a used book in such good condition." },
+	  { "q2": "I hired a secretary so I don't have to * phone calls while I'm working." },
+	  { "q3": "We have to maintain the client's trust or the deal might *." },
+	  { "q4": "I want to * all the old junk in my garage." },
+	  { "q5": "Can you * for a minute? I have a call on the other line." },
+	  { "q6": "Give me a call tomorrow night and maybe we can * for dinner." },
+	  { "q7": "You can always * me to support you." },
+	  { "q8": "My friend and I * well and we never argue about anything." }
+	],
+	"answers": [
+	  { "ac-1": "come across" },
+	  { "ac-2": "deal with" },
+	  { "ac-3": "fall through" },
+	  { "ac-4": "get rid of" },
+	  { "ac-5": "hold on" },
+	  { "ac-10": "hand out" },
+	  { "ac-12": "let down" },
+	  { "ac-11": "point out" },
+	  { "ac-9": "put up" },
+	  { "ac-6": "get together" },
+	  { "ac-8": "get along" },
+	  { "ac-7": "count on" }
+	]
+  }
+}
